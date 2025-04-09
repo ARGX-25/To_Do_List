@@ -26,7 +26,7 @@ class MainActivity : ComponentActivity() {
                     color = MaterialTheme.colorScheme.background
                 ){
                     Navigation()
-                    println("Hello World")
+                    println("This is an experiment")
                 }
             }
         }
