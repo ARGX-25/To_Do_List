@@ -27,6 +27,7 @@ class MainActivity : ComponentActivity() {
                 ){
                     Navigation()
                     println("This is an experiment")
+                    println("I am pushing stuff")
                 }
             }
         }
